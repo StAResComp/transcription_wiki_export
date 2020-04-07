@@ -1,0 +1,39 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Index:UYLY205 2 Receipt Book 1748-1753.djvu</title>
+    <ns>252</ns>
+    <id>5</id>
+    <revision>
+      <id>42</id>
+      <parentid>39</parentid>
+      <timestamp>2016-05-30T12:04:59Z</timestamp>
+      <contributor>
+        <username>Pgm5@st-andrews.ac.uk</username>
+        <id>2</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="287">{{:MediaWiki:Proofreadpage_index_template
+|Title=Receipt Book 1748-1753
+|Language=en
+|Author=
+|Translator=
+|Editor=
+|Year=
+|Publisher=
+|Address=
+|Key=
+|Source=
+|Image=1
+|Progress=
+|Volumes=
+|Pages=&lt;pagelist 1=Cover 188=Cover /&gt;
+&lt;pages header=1 from=1 to=188 /&gt;
+|Remarks=
+|Width=
+|Css=
+}}</text>
+      <sha1>jvxjd0k6gpe37ianb531zezzcumwraq</sha1>
+    </revision>
+  </page>
+</mediawiki>
