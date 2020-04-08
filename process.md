@@ -6,7 +6,7 @@
 4. `head -n 1 complete-export-20200406.xml > opening-tag.txt`
 5. `tail -n 1 complete-export-20200406.xml > closing-tag.txt`
 6. `csplit -z --prefix=page --digits=4 pages.xml /\<page\>/ '{*}'`
-7. `for f in `ls page0*`; do nf="$f".xml && cp opening-tag.txt $nf && cat $f >> $nf && cat closing-tag.txt >> $nf; done`
+7. `for f in \`ls page0*\`; do nf="$f".xml && cp opening-tag.txt $nf && cat $f >> $nf && cat closing-tag.txt >> $nf; done`
 8. `rm page0???`
 9. `for xml in page0???.xml; do xmllint --xpath '//*[local-name()="text"]/text()' $xml > $xml.mw; done`
 10. `for xml in page0???.xml; do title=\`xmllint --xpath '//*[local-name()="title"]/text()' $xml | tr ' /' _\` && xmllint --xpath '//*[local-name()="text"]/text()' $xml > "$title.mw"; done`
