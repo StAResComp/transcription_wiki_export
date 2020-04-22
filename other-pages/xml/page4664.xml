@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Memoirs of the Royal Burghs</title>
+    <ns>0</ns>
+    <id>600</id>
+    <revision>
+      <id>1284</id>
+      <timestamp>2017-04-07T14:10:06Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly an earlier edition of:  A memoir concerning the origin and progress of the reform proposed in the internal government of the Royal Burghs of Scotland ... To which is...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="503">Possibly an earlier edition of:  A memoir concerning the origin and progress of the reform proposed in the internal government of the Royal Burghs of Scotland ... To which is added the bill for reforming the internal government of the Burghs ... And also, an illustration of the principles of that bill, etc. (Substance of the reports of grievances, transmitted by the committees of Burgesses of different Boroughs, etc.), by Archibald Fletcher.  (Edinburgh: 1819) http://www.worldcat.org/oclc/561036996</text>
+      <sha1>btcb7vsbv30i4paqzzzpdyjdbx6sskb</sha1>
+    </revision>
+  </page>
+</mediawiki>

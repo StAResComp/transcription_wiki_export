@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Mairs Book-keeping</title>
+    <ns>0</ns>
+    <id>2482</id>
+    <revision>
+      <id>7994</id>
+      <parentid>3922</parentid>
+      <timestamp>2018-01-30T14:12:35Z</timestamp>
+      <contributor>
+        <username>Ea22@st-andrews.ac.uk</username>
+        <id>39</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="269">Possibly:  Book-keeping methodiz'd ; or, a methodical treatise of Merchant-Accompts, according to the Italian form. ... To which is added, a large appendix. ... Second edition, with additions, etc. By John Mair. (Edinburgh, 1741.) http://www.worldcat.org/oclc/561425751</text>
+      <sha1>3xp9r70r6be55whz85z4m0kl9orzinr</sha1>
+    </revision>
+  </page>
+</mediawiki>

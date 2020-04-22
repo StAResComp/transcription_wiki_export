@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>World</title>
+    <ns>0</ns>
+    <id>2813</id>
+    <revision>
+      <id>4369</id>
+      <timestamp>2017-10-24T10:13:20Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: The World / by Adam Fitz-Adam, [pseud]. ([Dublin : printed by George Faulkner, ..., 1755-1756])http://library.st-andrews.ac.uk/record=b1477997~S1&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="155">Possibly: The World / by Adam Fitz-Adam, [pseud]. ([Dublin : printed by George Faulkner, ..., 1755-1756])http://library.st-andrews.ac.uk/record=b1477997~S1</text>
+      <sha1>jmfg2yrnj45ozqbif70b0hctdcop2ok</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Huttons math. Dictionary</title>
+    <ns>0</ns>
+    <id>6236</id>
+    <revision>
+      <id>9478</id>
+      <timestamp>2018-04-27T13:35:08Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: A mathematical and philosophical dictionary : containing an explanation of the terms, and an account of the several subjects, comprized under the heads mathematics,...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="365">Possibly: A mathematical and philosophical dictionary : containing an explanation of the terms, and an account of the several subjects, comprized under the heads mathematics, astronomy, and philosophy ... In two volumes. ... By Charles Hutton ... (London : Printed by J. Davis, for J. Johnson ; And G.G. and J. Robinson, 1796). http://www.worldcat.org/oclc/79557361</text>
+      <sha1>js22v6nlmlgy796a1m6oz45fcjz79jf</sha1>
+    </revision>
+  </page>
+</mediawiki>

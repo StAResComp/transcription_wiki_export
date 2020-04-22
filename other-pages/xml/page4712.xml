@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Millers Gar.</title>
+    <ns>0</ns>
+    <id>543</id>
+    <revision>
+      <id>1169</id>
+      <timestamp>2017-04-05T14:58:03Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: The gardeners dictionary. Containing the methods of cultivating and improving all sorts of trees, plants, and flowers, for the kitchen, fruit, and pleasure gardens;...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="426">Possibly: The gardeners dictionary. Containing the methods of cultivating and improving all sorts of trees, plants, and flowers, for the kitchen, fruit, and pleasure gardens; as also those which are used in medicine. ... Abridged from the last folio edition, by the author, Philip Miller ... In three volumes. (London : Printed for the author; and sold by John and James Rivington, 1754) http://www.worldcat.org/oclc/778721622</text>
+      <sha1>h2twgv3k83g25fxmw969t3z2x77kln6</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Whistons Astronomy</title>
+    <ns>0</ns>
+    <id>26</id>
+    <revision>
+      <id>63</id>
+      <parentid>62</parentid>
+      <timestamp>2016-06-03T10:58:50Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="148">Possibly: ''An experimental course of astronomy''; proposed by Mr Whiston and Mr Hauksbee.  ([London], [1714]) http://www.worldcat.org/oclc/85870108</text>
+      <sha1>sb9mart1pqdubn7eb0wpade1olyywru</sha1>
+    </revision>
+  </page>
+</mediawiki>

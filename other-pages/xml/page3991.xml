@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>La Cerda in Virgilii</title>
+    <ns>0</ns>
+    <id>1769</id>
+    <revision>
+      <id>2871</id>
+      <parentid>2870</parentid>
+      <timestamp>2017-06-28T13:15:26Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="600">Possibly: P.V.M. opera ... cum integris notis Servii, Philargyrii, nec non J. Pierii variis lectionibus, et selectissimis plerisque commentariis Donati, Probi, Nannii, Sabini, Germani, Cerdae, Taubmanni, et aliorum. Quibus accedunt observationes J. Emmenessii. (Index Erythraei. Virgiliano operi cujuslibet editionis ab A.M. Basso accommodatus.) [Edited by J. Emmenessius and P. Masvicius.] (Publius Vergilius Maro. Virgil. Joannes Ludovicus de la Cerda. Jacobus Emmenessius. Pancratius Masvicius. Petrus Nannius).  3v. (Lugd[uni] Batavorum, Amstelodami, 1680). http://www.worldcat.org/oclc/503889461</text>
+      <sha1>8rbq32ntlpg2088bxjmbc2505p1hh30</sha1>
+    </revision>
+  </page>
+</mediawiki>

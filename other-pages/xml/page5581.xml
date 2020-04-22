@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Preceptor</title>
+    <ns>0</ns>
+    <id>1024</id>
+    <revision>
+      <id>6914</id>
+      <parentid>1895</parentid>
+      <timestamp>2018-01-05T14:40:08Z</timestamp>
+      <contributor>
+        <username>Ea22@st-andrews.ac.uk</username>
+        <id>39</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="316">Possibly:  The preceptor : containing a general course of education. Wherein the first principles of polite learning are laid down in a way most suitable for trying the genius, and advancing the instruction of youth. In twelve parts. (Dublin : Printed by George Faulkner, 1749.) http://www.worldcat.org/oclc/83285966</text>
+      <sha1>tc01gxquxft0r85iwzfd1j3yxntjyfr</sha1>
+    </revision>
+  </page>
+</mediawiki>

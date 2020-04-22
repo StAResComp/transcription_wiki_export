@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Biblia Graeca Septuagint</title>
+    <ns>0</ns>
+    <id>4679</id>
+    <revision>
+      <id>7014</id>
+      <timestamp>2018-01-08T14:48:14Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: Vetus Testamentum juxta septuaginta interpretes. Ex antiquissimo ms. Alexandrino accurate descriptum, et ope aliorum exemplarium, ac priscorum scriptorum...emendatum...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="270">Possibly: Vetus Testamentum juxta septuaginta interpretes. Ex antiquissimo ms. Alexandrino accurate descriptum, et ope aliorum exemplarium, ac priscorum scriptorum...emendatum...edidit J. E. Grabe. [S.l. : s.n., 17--].  http://library.st-andrews.ac.uk/record=b2408743~S1</text>
+      <sha1>9cfdah9yke0s1ja6vjvkudwh7f4m228</sha1>
+    </revision>
+  </page>
+</mediawiki>

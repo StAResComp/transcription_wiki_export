@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Clarks Sallust Lat. Eng</title>
+    <ns>0</ns>
+    <id>5675</id>
+    <revision>
+      <id>8495</id>
+      <parentid>8494</parentid>
+      <timestamp>2018-02-23T16:50:47Z</timestamp>
+      <contributor>
+        <username>Ea22@st-andrews.ac.uk</username>
+        <id>39</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="253">Possibly: C. Crispi Sallustii bellum Catilinarium et Jugurthinum ... : necon et vita Sallustii ... = The history of the wars of Catiline and Jugurtha, translated by John Clarke. (London : Printed for C. Hitch, 1743.) http://www.worldcat.org/oclc/9307489</text>
+      <sha1>a6h0vcp9rj9z5re604v00se4oj40i3f</sha1>
+    </revision>
+  </page>
+</mediawiki>

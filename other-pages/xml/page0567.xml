@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Bells Dissections</title>
+    <ns>0</ns>
+    <id>7392</id>
+    <revision>
+      <id>10800</id>
+      <timestamp>2018-05-22T14:56:12Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: A system of dissections, explaining the anatomy of the human body, the manner of displaying the parts, and their variety in disease. By Sir Charles Bell. 2v. (Edinbu...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="250">Possibly: A system of dissections, explaining the anatomy of the human body, the manner of displaying the parts, and their variety in disease. By Sir Charles Bell. 2v. (Edinburgh, Printed for Mundell, 1798-1805).  http://www.worldcat.org/oclc/5120358</text>
+      <sha1>8pqwqsf73rnmlzubvm46hv6239u83yx</sha1>
+    </revision>
+  </page>
+</mediawiki>

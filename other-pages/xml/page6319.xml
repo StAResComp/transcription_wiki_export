@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Sheridans Dict</title>
+    <ns>0</ns>
+    <id>2561</id>
+    <revision>
+      <id>9451</id>
+      <parentid>4027</parentid>
+      <timestamp>2018-04-27T10:57:08Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="381">Possibly: A Complete Dictionary of the English Language, Both with regard to Sound and Meaning: One main Object of which is, to establish a plain and permanent Standard of Pronunciation. To which is prefixed a Prosodial Grammar. By Thomas Sheridan, A.M. 2v. (London : Printed for Charles Dilly, in the Poultry, MDCCXCVII. [1797]). http://library.st-andrews.ac.uk/record=b2402164~S1</text>
+      <sha1>5oqwiq9d9d2z0dl9xzp3mrprdkah0d8</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Description of England</title>
+    <ns>0</ns>
+    <id>2479</id>
+    <revision>
+      <id>3919</id>
+      <timestamp>2017-10-05T07:49:58Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: Description of Elizabethan England, 1577 (from Holinshed's Chronicles), by William Harrison (1534-1593). Digital edition from Fordham University at: http://sourceboo...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="389">Possibly: Description of Elizabethan England, 1577 (from Holinshed's Chronicles), by William Harrison (1534-1593). Digital edition from Fordham University at: http://sourcebooks.fordham.edu/halsall/mod/1577harrison-england.asp. Another digital edition, edited by Lothrop Withington, with an introduction by F. J. Furnivall [19--?] at: https://archive.org/details/elizabethanengla00harruoft</text>
+      <sha1>e012l9x679rkwnprri0cvx0gea73zck</sha1>
+    </revision>
+  </page>
+</mediawiki>

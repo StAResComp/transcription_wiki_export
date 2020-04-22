@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Maltons Geometry</title>
+    <ns>0</ns>
+    <id>822</id>
+    <revision>
+      <id>1638</id>
+      <timestamp>2017-05-05T14:13:52Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: A Royal Road to Geometry, or an ... Introduction to the Mathematics. ..., by Thomas Malton.  (London, 1774). http://www.worldcat.org/oclc/561664598&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="157">Possibly: A Royal Road to Geometry, or an ... Introduction to the Mathematics. ..., by Thomas Malton.  (London, 1774). http://www.worldcat.org/oclc/561664598</text>
+      <sha1>1mnl0y8s1e5ss60q8tq6stu050av52l</sha1>
+    </revision>
+  </page>
+</mediawiki>

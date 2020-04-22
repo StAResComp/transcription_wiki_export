@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Jon Gullivers Travells</title>
+    <ns>0</ns>
+    <id>3255</id>
+    <revision>
+      <id>4936</id>
+      <parentid>4935</parentid>
+      <timestamp>2017-11-17T10:39:28Z</timestamp>
+      <contributor>
+        <username>Ea22@st-andrews.ac.uk</username>
+        <id>39</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="314">Possibly: Travels into several remote nations of the world : in four parts / by Lemuel Gulliver, first a surgeon, and then a Captain of several ships, by Jonathan Swift. (London : printed for Charles Bathurst, at the Cross-Keys in Fleet-Street, MDCCXLVII. [1747]) http://library.st-andrews.ac.uk/record=b1997773~S1</text>
+      <sha1>ds2n41zs2j8w6210foqzmg9d446wb22</sha1>
+    </revision>
+  </page>
+</mediawiki>

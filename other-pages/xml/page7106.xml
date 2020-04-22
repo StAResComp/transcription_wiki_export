@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Vie de Marne.</title>
+    <ns>0</ns>
+    <id>6676</id>
+    <revision>
+      <id>9974</id>
+      <timestamp>2018-05-09T10:42:57Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: La vie de Marianne : ou les aventures de Madame la comtesse de ***, par Monsieur de Marivaux. ...(Londres [i.e. Paris?] : Chez Edouard Kermaneck, 1778). http://www.w...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="200">Possibly: La vie de Marianne : ou les aventures de Madame la comtesse de ***, par Monsieur de Marivaux. ...(Londres [i.e. Paris?] : Chez Edouard Kermaneck, 1778). http://www.worldcat.org/oclc/84760318</text>
+      <sha1>m659lwtgwugv1dsg8iwroa6wsdm0890</sha1>
+    </revision>
+  </page>
+</mediawiki>

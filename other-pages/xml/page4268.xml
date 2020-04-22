@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Locks Works</title>
+    <ns>0</ns>
+    <id>770</id>
+    <revision>
+      <id>8442</id>
+      <parentid>1574</parentid>
+      <timestamp>2018-02-23T14:39:00Z</timestamp>
+      <contributor>
+        <username>Ea22@st-andrews.ac.uk</username>
+        <id>39</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="177">Possibly: The works of John Locke Esq; In three volumes... [by John Locke]. (London: Printed for John Churchill, and Sam. Manship, 1714). http://www.worldcat.org/oclc/186561113.</text>
+      <sha1>ekrhar1neg74b6bgg3w04jmkthc6k9c</sha1>
+    </revision>
+  </page>
+</mediawiki>

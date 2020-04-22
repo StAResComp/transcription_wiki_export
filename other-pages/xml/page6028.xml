@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Rodrick Random</title>
+    <ns>0</ns>
+    <id>1009</id>
+    <revision>
+      <id>1877</id>
+      <timestamp>2017-05-19T13:35:24Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: The adventures of Roderick Random, by Tobias Smollett. (Edinburgh : Printed for A. Donaldson, 1778) http://www.worldcat.org/oclc/5522907&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="146">Possibly: The adventures of Roderick Random, by Tobias Smollett. (Edinburgh : Printed for A. Donaldson, 1778) http://www.worldcat.org/oclc/5522907</text>
+      <sha1>4fujjhyem19lb94yzxzg4ow8frchzej</sha1>
+    </revision>
+  </page>
+</mediawiki>

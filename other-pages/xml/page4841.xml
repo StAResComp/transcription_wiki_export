@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Mortimers hist.</title>
+    <ns>0</ns>
+    <id>1268</id>
+    <revision>
+      <id>7500</id>
+      <parentid>2169</parentid>
+      <timestamp>2018-01-18T11:46:56Z</timestamp>
+      <contributor>
+        <username>Edb7@st-andrews.ac.uk</username>
+        <id>40</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="244">Possibly: A new history of England, from the earliest accounts of Britain to the ratification of the peace of Versailles, 1763. (Thomas Mortimer). 3v. (London, Printed for J. Wilson and J. Fell, 1764-1766). http://www.worldcat.org/oclc/14981905</text>
+      <sha1>hbh3au1ey2xxfwaud35lwlvisq8pj56</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Thos. Dewar</title>
+    <ns>0</ns>
+    <id>7511</id>
+    <revision>
+      <id>10934</id>
+      <timestamp>2018-05-29T09:00:34Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly Thomas Dewar: https://arts.st-andrews.ac.uk/biographical-register/data/documents/1376360028&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="100">Possibly Thomas Dewar: https://arts.st-andrews.ac.uk/biographical-register/data/documents/1376360028</text>
+      <sha1>2pki3479b4adfwa1g66564pxr8xo9u0</sha1>
+    </revision>
+  </page>
+</mediawiki>

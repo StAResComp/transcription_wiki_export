@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Life of Lord Lovat</title>
+    <ns>0</ns>
+    <id>6400</id>
+    <revision>
+      <id>9665</id>
+      <timestamp>2018-05-01T12:31:38Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly:  	Memoirs of the life of Simon Lord Lovat; written by himself, in the French language; and now first translated, from the original manuscript. (London : Printed for...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="285">Possibly:  	Memoirs of the life of Simon Lord Lovat; written by himself, in the French language; and now first translated, from the original manuscript. (London : Printed for George Nicol, bookseller to his Majesty, Pall-Mall, 1797).  http://library.st-andrews.ac.uk/record=b2434200~S1</text>
+      <sha1>push0kdcd7gdgwd66bodcrlohk5ngi2</sha1>
+    </revision>
+  </page>
+</mediawiki>

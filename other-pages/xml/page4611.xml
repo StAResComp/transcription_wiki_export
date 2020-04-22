@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Medical Register</title>
+    <ns>0</ns>
+    <id>6529</id>
+    <revision>
+      <id>9809</id>
+      <timestamp>2018-05-03T10:31:16Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly:  	The Medical Register for the Year 1779. (London : Printed for J. Murray, No 32, Fleet-Street, MDCCLXXIX. [1779]).  http://library.st-andrews.ac.uk/record=b2502433~S1&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="177">Possibly:  	The Medical Register for the Year 1779. (London : Printed for J. Murray, No 32, Fleet-Street, MDCCLXXIX. [1779]).  http://library.st-andrews.ac.uk/record=b2502433~S1</text>
+      <sha1>cg4pvmeynwgccdi4rumxk8o5eaypbem</sha1>
+    </revision>
+  </page>
+</mediawiki>

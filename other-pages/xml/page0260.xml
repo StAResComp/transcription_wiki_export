@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Anecdotes of a Convent</title>
+    <ns>0</ns>
+    <id>386</id>
+    <revision>
+      <id>2246</id>
+      <parentid>2245</parentid>
+      <timestamp>2017-06-02T08:50:15Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="186">Possibly Anecdotes of a convent. By the author of Memoirs of Mrs. Williams. In two volumes.  (Dublin : Printed for J. Potts, and T. Walker, 1771).  http://www.worldcat.org/oclc/228760885</text>
+      <sha1>ri7byazoc0jvfbtfmxon4j18h1gly07</sha1>
+    </revision>
+  </page>
+</mediawiki>

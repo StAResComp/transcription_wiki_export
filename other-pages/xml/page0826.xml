@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Bradys Sermons</title>
+    <ns>0</ns>
+    <id>4073</id>
+    <revision>
+      <id>6190</id>
+      <timestamp>2017-12-11T14:25:25Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: Several Sermons, chiefly upon practical subjects ... by Nicholas Brady the elder. Now first publish'd from the author's manuscripts [by his son, Nicholas Brady]. 3v....&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="252">Possibly: Several Sermons, chiefly upon practical subjects ... by Nicholas Brady the elder. Now first publish'd from the author's manuscripts [by his son, Nicholas Brady]. 3v. (R. Gosling; E. Symon: London, 1730). http://www.worldcat.org/oclc/558675711</text>
+      <sha1>d74qwxeslzfkmrfwfmktd0f119ahxky</sha1>
+    </revision>
+  </page>
+</mediawiki>

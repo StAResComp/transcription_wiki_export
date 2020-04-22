@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Morale de Placette</title>
+    <ns>0</ns>
+    <id>500</id>
+    <revision>
+      <id>1078</id>
+      <timestamp>2017-04-04T09:15:51Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly:  La Morale Chrêtienne abregée, et reduite a trois principaux devoirs, La repentance des pecheurs, la perseverance des justes, et les progrés que ces justes persev...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="337">Possibly:  La Morale Chrêtienne abregée, et reduite a trois principaux devoirs, La repentance des pecheurs, la perseverance des justes, et les progrés que ces justes perseverans doivent faire dans la pieté. Par Jean la Placette. (Rotterdam : Chez Abraham Acher, M. DCC. XVI. [1716]) http://library.st-andrews.ac.uk/record=b2409486~S5</text>
+      <sha1>p5n573s3m63y6voc2g6ha7rhaakyy9c</sha1>
+    </revision>
+  </page>
+</mediawiki>

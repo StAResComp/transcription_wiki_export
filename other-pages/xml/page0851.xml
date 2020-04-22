@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Brookes Gazetteer.</title>
+    <ns>0</ns>
+    <id>6439</id>
+    <revision>
+      <id>9714</id>
+      <timestamp>2018-05-02T08:15:03Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: The general gazetteer : or, compendious geographical dictionary. Containing a description of all the empires, kingdoms, states, republics, provinces, cities ... in t...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="404">Possibly: The general gazetteer : or, compendious geographical dictionary. Containing a description of all the empires, kingdoms, states, republics, provinces, cities ... in the known world: ... Embellished with maps. Originally compiled by R. Brookes, M.D. Revised, corrected, and greatly improved by W. Guthrie, and E. Jones. (Dublin : Printed by P. Wogan, 1791). http://www.worldcat.org/oclc/642230040</text>
+      <sha1>4v7i5o3wkd319rf5p3wwe3tki6e3ejf</sha1>
+    </revision>
+  </page>
+</mediawiki>

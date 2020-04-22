@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Velley Hist. de France.</title>
+    <ns>0</ns>
+    <id>2059</id>
+    <revision>
+      <id>3371</id>
+      <parentid>3370</parentid>
+      <timestamp>2017-09-07T14:00:41Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="262">Possibly: Histoire de France depuis l'établissement de la monarchie jusqu'au regne de Louis XIV, par Paul François Velley.  15v. (Paris, 1767-1786).  http://www.worldcat.org/oclc/80856869 and later edition at http://library.st-andrews.ac.uk/record=b2435081~S1.</text>
+      <sha1>h6duuylr182c37gafoqx7y1e123k64k</sha1>
+    </revision>
+  </page>
+</mediawiki>

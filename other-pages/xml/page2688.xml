@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Grays Poems</title>
+    <ns>0</ns>
+    <id>2777</id>
+    <revision>
+      <id>4320</id>
+      <timestamp>2017-10-23T08:30:04Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: Poems by Mr. Gray. (Thomas Gray). (Glasgow : Printed by Robert and Andrew Foulis, printers to the University, M.DCC.LXVIII. [1768]). http://library.st-andrews.ac.uk/...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="193">Possibly: Poems by Mr. Gray. (Thomas Gray). (Glasgow : Printed by Robert and Andrew Foulis, printers to the University, M.DCC.LXVIII. [1768]). http://library.st-andrews.ac.uk/record=b1856563~S1</text>
+      <sha1>iovku5wf5lkmlky6qs936hb3zt1t78a</sha1>
+    </revision>
+  </page>
+</mediawiki>

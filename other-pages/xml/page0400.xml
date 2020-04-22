@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Astronomy</title>
+    <ns>0</ns>
+    <id>6370</id>
+    <revision>
+      <id>9630</id>
+      <timestamp>2018-05-01T08:38:00Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: Astronomy explained upon Sir Isaac Newton's principles, by James Ferguson. (London : [printed for W. Strahan, J. Rivington and Sons, J. Hinton, T. Longman, T. Lownde...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="247">Possibly: Astronomy explained upon Sir Isaac Newton's principles, by James Ferguson. (London : [printed for W. Strahan, J. Rivington and Sons, J. Hinton, T. Longman, T. Lowndes [and 6 others in London], 1778) http://www.worldcat.org/oclc/219922400</text>
+      <sha1>mlfpysddh4i1y6kgt4l37fdemw7zhqw</sha1>
+    </revision>
+  </page>
+</mediawiki>

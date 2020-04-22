@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Millers Gardenry</title>
+    <ns>0</ns>
+    <id>4268</id>
+    <revision>
+      <id>6426</id>
+      <timestamp>2017-12-14T12:24:00Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: The gardeners and florists dictionary, or a complete system of horticulture: ... To which is added, A catalogue of curious trees, plants and fruits ... In two volume...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="295">Possibly: The gardeners and florists dictionary, or a complete system of horticulture: ... To which is added, A catalogue of curious trees, plants and fruits ... In two volumes. By Philip Miller ... (London : Printed [by H.P.] for Charles Rivington, 1724). http://www.worldcat.org/oclc/228747839</text>
+      <sha1>gmysf8oeylwuc51ro67cad35pkgfwue</sha1>
+    </revision>
+  </page>
+</mediawiki>

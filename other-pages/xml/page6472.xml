@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Some thing New</title>
+    <ns>0</ns>
+    <id>1466</id>
+    <revision>
+      <id>2427</id>
+      <timestamp>2017-06-08T08:53:17Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: Something new.  In two volumes..., by Richard Griffith.  (London : Printed for the author ; and sold by E. and C. Dilly ; and Messieurs Kincaid and Creech, Edinburgh...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="291">Possibly: Something new.  In two volumes..., by Richard Griffith.  (London : Printed for the author ; and sold by E. and C. Dilly ; and Messieurs Kincaid and Creech, Edinburgh, 1772). http://www.worldcat.org/oclc/519838191. 1762 ed. at:  https://archive.org/details/somethingnewess00grifgoog</text>
+      <sha1>tukbov3aomi0zwoxziygtorkop1wkk0</sha1>
+    </revision>
+  </page>
+</mediawiki>

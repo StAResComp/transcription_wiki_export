@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Helshams Lectures</title>
+    <ns>0</ns>
+    <id>4389</id>
+    <revision>
+      <id>6569</id>
+      <timestamp>2017-12-19T09:57:11Z</timestamp>
+      <contributor>
+        <username>Edb7@st-andrews.ac.uk</username>
+        <id>40</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: A course of lectures in natural philosophy. By the late Richard Helsham, M. D. Professor of Physick and Natural Philosophy in the University of Dublin. Published by...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="345">Possibly: A course of lectures in natural philosophy. By the late Richard Helsham, M. D. Professor of Physick and Natural Philosophy in the University of Dublin. Published by Bryan Robinson, M.D [Electronic book]. (Dublin : printed by William Sleater and William M'Kenzie, M.DCC.XCIII. [1793]). http://library.st-andrews.ac.uk/record=b2290069~S5</text>
+      <sha1>26a9adkdtm0g1kmcavzou9hdj66fadj</sha1>
+    </revision>
+  </page>
+</mediawiki>

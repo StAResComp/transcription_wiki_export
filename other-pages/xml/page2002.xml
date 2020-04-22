@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Dun on Longitude</title>
+    <ns>0</ns>
+    <id>625</id>
+    <revision>
+      <id>1341</id>
+      <timestamp>2017-04-11T08:49:49Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: The theory and practice of the longitude at sea ..., by Samuel Dunn. (London : printed for the author and sold by him. Also, by his appointment, sold at several book...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="290">Possibly: The theory and practice of the longitude at sea ..., by Samuel Dunn. (London : printed for the author and sold by him. Also, by his appointment, sold at several booksellers and mathematical instrument makers, in London and Westminster, 1778) http://www.worldcat.org/oclc/938338284</text>
+      <sha1>ag8dddp53735fcy37vbj3fvzuthku52</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Fullers Church Histy</title>
+    <ns>0</ns>
+    <id>4405</id>
+    <revision>
+      <id>6621</id>
+      <parentid>6617</parentid>
+      <timestamp>2017-12-19T11:17:58Z</timestamp>
+      <contributor>
+        <username>Edb7@st-andrews.ac.uk</username>
+        <id>40</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="136">Possibly an earlier edition of: The church history of Britain. (By Thomas Fuller). https://archive.org/details/churchhistorybr04brewgoog</text>
+      <sha1>8smwnex25ga2yfvh2xmrtju9wlo9c50</sha1>
+    </revision>
+  </page>
+</mediawiki>

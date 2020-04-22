@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Thomsons Works</title>
+    <ns>0</ns>
+    <id>533</id>
+    <revision>
+      <id>6923</id>
+      <parentid>1143</parentid>
+      <timestamp>2018-01-05T14:59:07Z</timestamp>
+      <contributor>
+        <username>Ea22@st-andrews.ac.uk</username>
+        <id>39</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="158">Possibly:  The works of Mr. Thomson : with additions and corrections. By James Thomson. (London : A. Millar, 1738-1749.) http://www.worldcat.org/oclc/37338374</text>
+      <sha1>3d05vasi4u37puuerpjyqxatittslb9</sha1>
+    </revision>
+  </page>
+</mediawiki>

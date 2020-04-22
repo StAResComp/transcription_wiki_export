@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Fergusons Rom. Histy</title>
+    <ns>0</ns>
+    <id>3331</id>
+    <revision>
+      <id>5056</id>
+      <parentid>5050</parentid>
+      <timestamp>2017-11-20T15:23:54Z</timestamp>
+      <contributor>
+        <username>Edb7@st-andrews.ac.uk</username>
+        <id>40</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="175">Possibly: The history of the progress and termination of the Roman Republic. (By Ferguson, Adam). (Edinburgh : Bell and Bradfute, 1799). http://www.worldcat.org/oclc/909938737</text>
+      <sha1>sw4gf6267mx1tdde4qdrrxfvnfuyl8k</sha1>
+    </revision>
+  </page>
+</mediawiki>

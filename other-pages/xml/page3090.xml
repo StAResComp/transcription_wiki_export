@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Hist de France</title>
+    <ns>0</ns>
+    <id>632</id>
+    <revision>
+      <id>1351</id>
+      <timestamp>2017-04-11T13:04:28Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Probably: The history of France : from the time the French monarchy was establish'd in Gaul, to the death of Lewis the fourteenth, by Gabriel Daniel. (London printed [by Sam....&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="267">Probably: The history of France : from the time the French monarchy was establish'd in Gaul, to the death of Lewis the fourteenth, by Gabriel Daniel. (London printed [by Sam. Aris] for G. Strahan, W. Mears, and D. Browne, and J. Woodman and D. Lyon 1726). [[1]] [[2]]</text>
+      <sha1>72hd6vup6l5ri8pzura1quxnf66g4zr</sha1>
+    </revision>
+  </page>
+</mediawiki>

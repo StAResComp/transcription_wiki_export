@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Catalogue Advocates library</title>
+    <ns>0</ns>
+    <id>452</id>
+    <revision>
+      <id>985</id>
+      <timestamp>2017-04-03T10:13:00Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Probably: A catalogue of the library of the Faculty of advocates, Edinburgh ...(Faculty of Advocates (Scotland) Library.  (Edinburgh : Printed by Thomas, Walter, and Thomas Ru...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="229">Probably: A catalogue of the library of the Faculty of advocates, Edinburgh ...(Faculty of Advocates (Scotland) Library.  (Edinburgh : Printed by Thomas, Walter, and Thomas Ruddiman, 1742-76) http://www.worldcat.org/oclc/29532050</text>
+      <sha1>e2hnc7ogwgap9exfqf16patiefprwqk</sha1>
+    </revision>
+  </page>
+</mediawiki>

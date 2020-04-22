@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Memoires des Insects</title>
+    <ns>0</ns>
+    <id>6627</id>
+    <revision>
+      <id>9921</id>
+      <parentid>9920</parentid>
+      <timestamp>2018-05-08T14:18:49Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="281">Possibly: Memoires pour servir a l'histoire des Insectes. Par M. de Reaumur, de l'Académie Royale des Sciences. 6v. (A Paris : De L'imprimerie Royale, M. DCCXXIV.-M. DCCXLII. [1734-1742]). http://library.st-andrews.ac.uk/record=b2500764~S1.  (René-Antoine Ferchault de Réaumur).</text>
+      <sha1>1vi20jpuns1n18a4670z9m9hphsn08w</sha1>
+    </revision>
+  </page>
+</mediawiki>

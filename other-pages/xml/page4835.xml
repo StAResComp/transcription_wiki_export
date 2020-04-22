@@ -1,0 +1,21 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Morgans hist.</title>
+    <ns>0</ns>
+    <id>399</id>
+    <revision>
+      <id>875</id>
+      <timestamp>2017-03-28T10:38:28Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Probably: A complete history of Algiers, by J. Morgan.  (London : Printed for the author, by J. Bettenham, 1728. Sold by the several Booksellers, whose Names are in the List,...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="259">Probably: A complete history of Algiers, by J. Morgan.  (London : Printed for the author, by J. Bettenham, 1728. Sold by the several Booksellers, whose Names are in the List, as Subscribers, [1728-1729]).
+[[http://library.st-andrews.ac.uk/record=b2439824~S1]]</text>
+      <sha1>c9986abn2qzunr3x3gq93hine8dcgym</sha1>
+    </revision>
+  </page>
+</mediawiki>

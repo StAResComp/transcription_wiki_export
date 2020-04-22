@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Nautical Almanack</title>
+    <ns>0</ns>
+    <id>563</id>
+    <revision>
+      <id>1210</id>
+      <timestamp>2017-04-06T12:07:26Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: The nautical almanac and astronomical ephemeris, for the year 1770 : Printed by order of the Commissioners of Longitude. (London : Printed by W. Richardson and S. Cl...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="275">Possibly: The nautical almanac and astronomical ephemeris, for the year 1770 : Printed by order of the Commissioners of Longitude. (London : Printed by W. Richardson and S. Clark ; And sold by J. Nourse, and Mess. Mount and Page, 1769.) http://www.worldcat.org/oclc/722648572</text>
+      <sha1>ilk6ymfu6ljn0qtdq2cawb1c15ldl6k</sha1>
+    </revision>
+  </page>
+</mediawiki>

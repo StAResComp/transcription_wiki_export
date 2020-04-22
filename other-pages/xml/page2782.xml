@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Gullivers Travels</title>
+    <ns>0</ns>
+    <id>1026</id>
+    <revision>
+      <id>6578</id>
+      <parentid>1897</parentid>
+      <timestamp>2017-12-19T10:05:31Z</timestamp>
+      <contributor>
+        <username>Ea22@st-andrews.ac.uk</username>
+        <id>39</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="189">Possibly: Travels into several remote nations of the world. In four parts. By Lemuel Gulliver [i.e. Jonathan Swift]. (London: Charles Bathurst, 1748.) http://www.worldcat.org/oclc/504194396</text>
+      <sha1>p8nt69q9bsvef2g5cvg5jps22241c7b</sha1>
+    </revision>
+  </page>
+</mediawiki>

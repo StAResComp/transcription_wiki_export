@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Peregrin Pickle</title>
+    <ns>0</ns>
+    <id>1379</id>
+    <revision>
+      <id>2302</id>
+      <timestamp>2017-06-05T10:14:23Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Probably: The adventures of Peregrine Pickle, in which are included Memoirs of a lady of quality [by Tobias Smollett] in four volumes. (Dublin : Printed by P. Wogan and I. She...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="239">Probably: The adventures of Peregrine Pickle, in which are included Memoirs of a lady of quality [by Tobias Smollett] in four volumes. (Dublin : Printed by P. Wogan and I. Sheal, [1768-9?])http://library.st-andrews.ac.uk/record=b1301577~S1</text>
+      <sha1>opvy0je44o163rv0vfua7kt8ri3bcmc</sha1>
+    </revision>
+  </page>
+</mediawiki>

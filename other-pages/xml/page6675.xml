@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Supp. Morreri Dict</title>
+    <ns>0</ns>
+    <id>2939</id>
+    <revision>
+      <id>7636</id>
+      <parentid>4530</parentid>
+      <timestamp>2018-01-19T12:31:33Z</timestamp>
+      <contributor>
+        <username>Edb7@st-andrews.ac.uk</username>
+        <id>40</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="628">Possibly: The Great Historical Geographical, Genealogical and Poetical Dictionary....To which are added, by way of Supplement, intermix'd throughout the Alphabet, The Lives, most Remarkable Actions, and Writings of several Illustrious Families of our English, Scotch and Irish Nobility, and Gentry, and most Famous Men of all Professions, Arts and Sciences: as also, an exact description of these Kingdoms; with the most considerable Occurrences that have happened to this present Time. (Louis Moréri; Jeremy Collier). 2v. (London : Printed for Henry Rhodes... MDCCI. [1701]). http://library.st-andrews.ac.uk/record=b2488741~S1</text>
+      <sha1>8f66h0a52snm8jo4txlkh5s3bf07kjp</sha1>
+    </revision>
+  </page>
+</mediawiki>

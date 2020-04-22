@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Johnsons Dictionary</title>
+    <ns>0</ns>
+    <id>427</id>
+    <revision>
+      <id>929</id>
+      <timestamp>2017-03-29T15:11:41Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly:  A dictionary of the English language : in which the words are deduced from their originals, and illustrated in their different significations by examples from the b...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="432">Possibly:  A dictionary of the English language : in which the words are deduced from their originals, and illustrated in their different significations by examples from the best writers. To which are prefixed, a history of the language, and an English grammar / by Samuel Johnson, A.M. In two volumes.  (London : printed by W. Strahan, for J. and P. Knapton; [and 4 others], 1755) http://library.st-andrews.ac.uk/record=b1479465~S1</text>
+      <sha1>84ffyf92o5lfnl3cilg69mbo7czeeqx</sha1>
+    </revision>
+  </page>
+</mediawiki>

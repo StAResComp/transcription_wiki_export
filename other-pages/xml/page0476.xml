@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Barrows travs.</title>
+    <ns>0</ns>
+    <id>5074</id>
+    <revision>
+      <id>7587</id>
+      <parentid>7586</parentid>
+      <timestamp>2018-01-18T16:09:29Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="271">Possibly: A collection of authentic, useful, and entertaining voyages and discoveries, digested in a chronological series. Performed by the following celebrated commanders, ... By John Barrow, Esq. (London printed for J. Knox 1765). http://www.worldcat.org/oclc/838683096</text>
+      <sha1>jfuzxnur8vfrfo96v4rupanfndzl0c2</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Jones works</title>
+    <ns>0</ns>
+    <id>4923</id>
+    <revision>
+      <id>7383</id>
+      <timestamp>2018-01-16T09:53:43Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: The works of Sir William Jones. In six volumes.  (London : printed for G. G. and J. Robinson, Pater-Noster-Row; and R. H. Evans (successor to Mr. Edwards), No. 26, P...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="255">Possibly: The works of Sir William Jones. In six volumes.  (London : printed for G. G. and J. Robinson, Pater-Noster-Row; and R. H. Evans (successor to Mr. Edwards), No. 26, Pall-Mall, MDCCXCIX. [1799]).  http://library.st-andrews.ac.uk/record=b2299760~S5</text>
+      <sha1>6gbh6fk7a6hf3zjkv5jjqfufrkshfd4</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Memoirs of two young Gent</title>
+    <ns>0</ns>
+    <id>2635</id>
+    <revision>
+      <id>4119</id>
+      <parentid>4118</parentid>
+      <timestamp>2017-10-12T14:42:43Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="465">Possibly: Memoirs of two young gentlemen. Exhibiting the most striking instances of the seduction and snares to which young people are liable ... Interspersed with awful warnings...By N.  (Probably James Nassau:  the two young gentlement are probaly James Nassau and Josiah Tomkins - see later editions). (Edinburgh : Printed by J. Reid ; And sold at his printing-office, and by all the Booksellers in town and country, 1768). http://www.worldcat.org/oclc/722510160</text>
+      <sha1>7vy1xj3ylfnu2sngmkgouuah550s5du</sha1>
+    </revision>
+  </page>
+</mediawiki>

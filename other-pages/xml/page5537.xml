@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Popes Odyssee</title>
+    <ns>0</ns>
+    <id>38</id>
+    <revision>
+      <id>6573</id>
+      <parentid>82</parentid>
+      <timestamp>2017-12-19T09:59:13Z</timestamp>
+      <contributor>
+        <username>Ea22@st-andrews.ac.uk</username>
+        <id>39</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="144">Possibly: ''The odyssey of Homer'', [by] Alexander Pope.  (London: Printed for Bernard Lintot, 1725-26.)  http://www.worldcat.org/oclc/642455378</text>
+      <sha1>3uq482iq1tpcmq2ko7tf6pfesfeb6cr</sha1>
+    </revision>
+  </page>
+</mediawiki>

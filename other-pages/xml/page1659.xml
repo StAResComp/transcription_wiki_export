@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>David Simples Adventures</title>
+    <ns>0</ns>
+    <id>5385</id>
+    <revision>
+      <id>8003</id>
+      <timestamp>2018-01-30T14:22:55Z</timestamp>
+      <contributor>
+        <username>Ea22@st-andrews.ac.uk</username>
+        <id>39</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: The Adventures of David Simple: containing an account of his travels through the cities of London and Westminster, in the search of a real friend. By a Lady [i.e. Sa...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="244">Possibly: The Adventures of David Simple: containing an account of his travels through the cities of London and Westminster, in the search of a real friend. By a Lady [i.e. Sarah Fielding]. (London, 1744.) http://www.worldcat.org/oclc/561397110</text>
+      <sha1>6n9skjpfelhz1hu4th5jfw5jip2ay2e</sha1>
+    </revision>
+  </page>
+</mediawiki>

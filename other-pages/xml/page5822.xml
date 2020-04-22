@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Reliquiae Divi Andreae</title>
+    <ns>0</ns>
+    <id>4791</id>
+    <revision>
+      <id>7197</id>
+      <parentid>7196</parentid>
+      <timestamp>2018-01-11T12:26:09Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="299">Possibly: 	The original manuscript (msdep113 box 60) of Reliquiae divi Andreae, or The state of the venerable and primitial see of St Andrews ... (By George Martine). (St Andrews : Printed by and for James Morison, printer to the University, 1797). http://library.st-andrews.ac.uk/record=b1360593~S1</text>
+      <sha1>tuzenyfkp7d4vu7tlfce123buio8e4y</sha1>
+    </revision>
+  </page>
+</mediawiki>

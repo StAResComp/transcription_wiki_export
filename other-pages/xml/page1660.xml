@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>David Smith</title>
+    <ns>0</ns>
+    <id>7867</id>
+    <revision>
+      <id>11389</id>
+      <timestamp>2018-06-01T15:05:47Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly David Smith: https://arts.st-andrews.ac.uk/biographical-register/data/documents/1410866900&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="99">Possibly David Smith: https://arts.st-andrews.ac.uk/biographical-register/data/documents/1410866900</text>
+      <sha1>hok4khl3pj1gfgufya2jamtc3o425jw</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>La Ami des Enfans</title>
+    <ns>0</ns>
+    <id>3404</id>
+    <revision>
+      <id>5245</id>
+      <parentid>5220</parentid>
+      <timestamp>2017-11-22T16:49:06Z</timestamp>
+      <contributor>
+        <username>Edb7@st-andrews.ac.uk</username>
+        <id>40</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="186">Possibly: L'ami des enfans / par M. Berquin. (By Berquin, Arnaud). 11v. (Londres : chez M. Elsmley, Libraire, dans le Strand, 1782-83). http://library.st-andrews.ac.uk/record=b1422562~S1</text>
+      <sha1>ncxse58t8iw7qlrm2gjisa8waui678l</sha1>
+    </revision>
+  </page>
+</mediawiki>

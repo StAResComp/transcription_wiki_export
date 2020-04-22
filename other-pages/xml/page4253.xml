@@ -1,0 +1,22 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Lock on Education</title>
+    <ns>0</ns>
+    <id>27</id>
+    <revision>
+      <id>95</id>
+      <parentid>66</parentid>
+      <timestamp>2016-06-03T14:03:25Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="333">Possibly: ''Some thoughts concerning education''; by Mr. John Locke.  (London: Printed for a Society of Stationers, and sold by J. Baker at the Black Boy in Pater-Noster-Row, 1710).  http://www.worldcat.org/oclc/642665877
+
+Full text of 1712 edition from the Internet Archive at: [http://archive.org/details/somethoughtscon01lockgoog]</text>
+      <sha1>qtvi3wy01cjfgngmd7c2ssp5t5j8uz1</sha1>
+    </revision>
+  </page>
+</mediawiki>

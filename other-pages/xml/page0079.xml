@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Account of Switzerland</title>
+    <ns>0</ns>
+    <id>1561</id>
+    <revision>
+      <id>7568</id>
+      <parentid>2595</parentid>
+      <timestamp>2018-01-18T15:49:39Z</timestamp>
+      <contributor>
+        <username>Ea22@st-andrews.ac.uk</username>
+        <id>39</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="255">Possibly: An account of Switzerland. Written in the Year 1714, by Abraham Stanyan.  (London : Printed for Jacob Tonson, at Shakespear's Head, over-against Catherine-Street in the Strand, MDCCXIV. [1714])  http://library.st-andrews.ac.uk/record=b2438714~S1</text>
+      <sha1>fp585fzruw9vddj9wgi8z31lah1vyft</sha1>
+    </revision>
+  </page>
+</mediawiki>

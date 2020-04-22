@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Millers Gard. Dictionary</title>
+    <ns>0</ns>
+    <id>2752</id>
+    <revision>
+      <id>4284</id>
+      <timestamp>2017-10-20T13:54:36Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: The gardeners dictionary: containing the best and newest methods of cultivating and improving the kitchen, fruit, flower garden, and nursery, as also for performing...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="309">Possibly: The gardeners dictionary: containing the best and newest methods of cultivating and improving the kitchen, fruit, flower garden, and nursery, as also for performing the practical parts of agriculture...,by Philip Miller. (London, Printed for the author, 1768). http://www.worldcat.org/oclc/123170543</text>
+      <sha1>hznxv3li8vfsmbgs2enj5k5lbhp3a0x</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Telemachus</title>
+    <ns>0</ns>
+    <id>3452</id>
+    <revision>
+      <id>5336</id>
+      <parentid>5335</parentid>
+      <timestamp>2017-11-24T14:35:20Z</timestamp>
+      <contributor>
+        <username>Edb7@st-andrews.ac.uk</username>
+        <id>40</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="321">Possibly: The adventures of Telemachus, the son of Ulysses / from the French of Salignac de la Mothe-Fénelon, Archbishop of Cambray, by the late John Hawkesworth ... (By Fénelon, François de Salignac de La Mothe-). 2v. (London : printed for C. and G. Kearsley, 1795). http://library.st-andrews.ac.uk/record=b1432195~S1</text>
+      <sha1>9hyn78pca1322l2xh3kvz5tz46gs9rk</sha1>
+    </revision>
+  </page>
+</mediawiki>

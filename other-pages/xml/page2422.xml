@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>French translation of Bentiv</title>
+    <ns>0</ns>
+    <id>2476</id>
+    <revision>
+      <id>3916</id>
+      <timestamp>2017-10-04T15:55:39Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly:  	Histoire de Guerres de Flandre, par le Cardinal Bentivoglio, Traduite de l'Italien par M. Loiseau l'aîné, Chanoine de l'Eglise Orléans. 4v. (A Paris : Chez Desa...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="281">Possibly:  	Histoire de Guerres de Flandre, par le Cardinal Bentivoglio, Traduite de l'Italien par M. Loiseau l'aîné, Chanoine de l'Eglise Orléans. 4v. (A Paris : Chez Desaint, Rue du Foin Saint-Jacques, M. DCC. LXIX. [1769]).  http://library.st-andrews.ac.uk/record=b2437532~S1</text>
+      <sha1>27eb72bk374wbn7db25kg0ibmm4i498</sha1>
+    </revision>
+  </page>
+</mediawiki>

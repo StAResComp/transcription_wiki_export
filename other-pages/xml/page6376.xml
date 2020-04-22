@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Simsons Euclid</title>
+    <ns>0</ns>
+    <id>559</id>
+    <revision>
+      <id>1199</id>
+      <timestamp>2017-04-06T08:36:49Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly:  The elements of Euclid, viz. the first six books, together with the eleventh and twelfth : in this edition, the errors, by which Theon, or others, have long ago vit...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="484">Possibly:  The elements of Euclid, viz. the first six books, together with the eleventh and twelfth : in this edition, the errors, by which Theon, or others, have long ago vitiated these books, are corrected, and some of Euclid's demonstrations are restored / by Robert Simson, M. D. Professor of Mathematics in the University of Glasgow.  (Glasgow : Printed by Robert and Andrew Foulis printers to the University, M.DCC.LVI. [1756]) http://library.st-andrews.ac.uk/record=b1856555~S1</text>
+      <sha1>1o1ide73cn62bjcnf6eqkz0mrvgu90t</sha1>
+    </revision>
+  </page>
+</mediawiki>

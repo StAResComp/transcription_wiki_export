@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Newmans Chemistry</title>
+    <ns>0</ns>
+    <id>1440</id>
+    <revision>
+      <id>2386</id>
+      <timestamp>2017-06-07T13:18:59Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly:  	The chemical works of Caspar Neumann, M.D. Professor of Chemistry at Berlin...(London : Printed for W. Johnston in Ludgate-street... M DCC LIX [1759]). http://libr...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="214">Possibly:  	The chemical works of Caspar Neumann, M.D. Professor of Chemistry at Berlin...(London : Printed for W. Johnston in Ludgate-street... M DCC LIX [1759]). http://library.st-andrews.ac.uk/record=b2445391~S1</text>
+      <sha1>66fez0o44w264rr8b22ch25graes90d</sha1>
+    </revision>
+  </page>
+</mediawiki>

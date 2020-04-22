@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Mr McNiels</title>
+    <ns>0</ns>
+    <id>8458</id>
+    <revision>
+      <id>12243</id>
+      <parentid>12242</parentid>
+      <timestamp>2018-06-08T10:32:31Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="99">Possibly John McNeil: https://arts.st-andrews.ac.uk/biographical-register/data/documents/1396542084</text>
+      <sha1>2u7vp037ws7sxwt1kkivrryqd7xii4r</sha1>
+    </revision>
+  </page>
+</mediawiki>

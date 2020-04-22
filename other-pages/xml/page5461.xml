@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Pocket Repository</title>
+    <ns>0</ns>
+    <id>5542</id>
+    <revision>
+      <id>8237</id>
+      <timestamp>2018-02-12T11:31:35Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly:  	The pocket repository of instruction and entertainment : selected from new publications. (Perth : Printed by R. Morison junior, for R. Morison &amp; Son, booksellers,...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="293">Possibly:  	The pocket repository of instruction and entertainment : selected from new publications. (Perth : Printed by R. Morison junior, for R. Morison &amp; Son, booksellers, Perth; and Vernor &amp; Hood, Birchin Lane, London, M,DCC,XCV. [1795]). http://library.st-andrews.ac.uk/record=b1891598~S1</text>
+      <sha1>aip64uppdii6mf2t9ixssiuff47a29m</sha1>
+    </revision>
+  </page>
+</mediawiki>

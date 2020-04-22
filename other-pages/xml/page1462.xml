@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Corpus confessionum</title>
+    <ns>0</ns>
+    <id>5521</id>
+    <revision>
+      <id>8203</id>
+      <timestamp>2018-02-09T14:57:46Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly:  	Corpus et syntagma confessionum fidei quae in diuersis regnis et nationibus, ecclesiarum nomine fuerunt authenticè editae: in celeberrimis conuentibus exhibitae,...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="455">Possibly:  	Corpus et syntagma confessionum fidei quae in diuersis regnis et nationibus, ecclesiarum nomine fuerunt authenticè editae: in celeberrimis conuentibus exhibitae, publicáque auctoritate comprobatae. Quibus annectitur, in omnibus Christianae religionis articulis, catholicus consensus, ex sententijs veterum qui patres vocantur, desumptus ... ([Geneva] : apud Petrum &amp; Iacobum Chouët, 1612). http://library.st-andrews.ac.uk/record=b1401331~S1</text>
+      <sha1>k7aldnv0l51q2gxgldv1x6esewyr6m9</sha1>
+    </revision>
+  </page>
+</mediawiki>

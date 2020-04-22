@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Gerards Langue Française</title>
+    <ns>0</ns>
+    <id>444</id>
+    <revision>
+      <id>965</id>
+      <timestamp>2017-03-31T14:09:54Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: Les vrais principes de la langue françoise, ou, La parole réduite en méthode, conformément aux lois de l'usage, en seize discours, par Gabriel Girard.  (Paris :...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="229">Possibly: Les vrais principes de la langue françoise, ou, La parole réduite en méthode, conformément aux lois de l'usage, en seize discours, par Gabriel Girard.  (Paris : Le Breton, 1747) http://www.worldcat.org/oclc/68807042</text>
+      <sha1>5s2b6at01044dxgou8qqi9y1h095lq7</sha1>
+    </revision>
+  </page>
+</mediawiki>

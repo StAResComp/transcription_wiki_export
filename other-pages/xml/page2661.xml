@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Gordons Salust</title>
+    <ns>0</ns>
+    <id>1135</id>
+    <revision>
+      <id>2013</id>
+      <timestamp>2017-05-29T10:19:44Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: The works of Sallust, translated into English : with political discourses upon that author : to which is added, a translation of Cicero's four orations against Catil...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="277">Possibly: The works of Sallust, translated into English : with political discourses upon that author : to which is added, a translation of Cicero's four orations against Catiline. (Dublin : Printed by A. Reilly, for John Smith ..., 1744). http://www.worldcat.org/oclc/977966519</text>
+      <sha1>tq8x891yzxo58mbua4c16hlw3noi3ns</sha1>
+    </revision>
+  </page>
+</mediawiki>

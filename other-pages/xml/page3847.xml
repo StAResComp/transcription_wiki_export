@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Joseph Andrews</title>
+    <ns>0</ns>
+    <id>2737</id>
+    <revision>
+      <id>9147</id>
+      <parentid>4267</parentid>
+      <timestamp>2018-04-17T13:45:39Z</timestamp>
+      <contributor>
+        <username>Ea22@st-andrews.ac.uk</username>
+        <id>39</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="236">Possibly: The history of the adventures of Joseph Andrews, and his friend Mr. Abraham Adams. ... By Henry Fielding ... Illustrated with cuts. In two volumes. (London : Printed for A. Millar, 1751.) http://www.worldcat.org/oclc/225332187</text>
+      <sha1>2h025w6zu8m539qha0g5f48shkk6v75</sha1>
+    </revision>
+  </page>
+</mediawiki>

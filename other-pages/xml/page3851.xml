@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Josephi opera</title>
+    <ns>0</ns>
+    <id>2020</id>
+    <revision>
+      <id>8489</id>
+      <parentid>3324</parentid>
+      <timestamp>2018-02-23T16:40:03Z</timestamp>
+      <contributor>
+        <username>Ea22@st-andrews.ac.uk</username>
+        <id>39</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="424">Possibly: Flavii Iosephi Opera in sermonem latinvm iam olim conversa : nvnc verò ad exemplaria Graeca denuò summa fide diligentiaq[ue] collata, ac plurimis in locis emendata. Quid hac noua editione praestitum sit, uerso mox folio, uidere licet. Accessit rerum &amp; verborum toto opere memorabilium locupletissimus index. [Josephus] (Basileae : ex officina Frobeniana, 1567.) http://library.st-andrews.ac.uk/record=b1453657~S1</text>
+      <sha1>1ws7bfllbzxn5drfmbwwm97h38peigt</sha1>
+    </revision>
+  </page>
+</mediawiki>

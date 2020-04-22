@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Steven on the Latitude</title>
+    <ns>0</ns>
+    <id>7149</id>
+    <revision>
+      <id>10502</id>
+      <timestamp>2018-05-16T11:15:10Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: A method of ascertaining the latitude in the northern hemisphere : by a single altitude of the polar star, at any time ; with tables computed for that purpose. By Jo...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="393">Possibly: A method of ascertaining the latitude in the northern hemisphere : by a single altitude of the polar star, at any time ; with tables computed for that purpose. By John Stevens, In the Service of the East India Company.  (Cambridge : Printed by F. Hodson, at the Corner of Green-Street. And sold by W. Heather, Leadenhall-Street, London, 1800).  http://www.worldcat.org/oclc/745182927</text>
+      <sha1>6cn7f6b53tx1b1a6f3zm1sdoeebldlk</sha1>
+    </revision>
+  </page>
+</mediawiki>

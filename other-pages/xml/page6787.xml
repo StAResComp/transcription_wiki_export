@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>The Spectre</title>
+    <ns>0</ns>
+    <id>3568</id>
+    <revision>
+      <id>5523</id>
+      <timestamp>2017-11-29T16:27:33Z</timestamp>
+      <contributor>
+        <username>Edb7@st-andrews.ac.uk</username>
+        <id>40</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: The Spectre. [A novel.]. (London, 1789). http://www.worldcat.org/oclc/504112883&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="89">Possibly: The Spectre. [A novel.]. (London, 1789). http://www.worldcat.org/oclc/504112883</text>
+      <sha1>7vv7mn39r670qftqveik52q6wlra20x</sha1>
+    </revision>
+  </page>
+</mediawiki>

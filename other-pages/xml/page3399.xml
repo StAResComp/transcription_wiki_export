@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Houbigants Bible</title>
+    <ns>0</ns>
+    <id>5530</id>
+    <revision>
+      <id>8218</id>
+      <timestamp>2018-02-09T16:45:59Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: Biblia hebraica cum notis criticis et versione latina ad notas criticas facta ; accedunt libri graeci qui &quot;deutero-canonici&quot; vocantur ..., by Charles-François Houbi...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="253">Possibly: Biblia hebraica cum notis criticis et versione latina ad notas criticas facta ; accedunt libri graeci qui &quot;deutero-canonici&quot; vocantur ..., by Charles-François Houbigant. 4v. (Lutetiae Parisiorum, 1753).  http://www.worldcat.org/oclc/461336486</text>
+      <sha1>71zlww0hxru9jftna0iavwbjkfzesa8</sha1>
+    </revision>
+  </page>
+</mediawiki>

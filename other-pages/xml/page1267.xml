@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Ciceronis Operum</title>
+    <ns>0</ns>
+    <id>3496</id>
+    <revision>
+      <id>5406</id>
+      <timestamp>2017-11-27T15:34:30Z</timestamp>
+      <contributor>
+        <username>Ea22@st-andrews.ac.uk</username>
+        <id>39</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: M. Tullii Ciceronis opera quae supersunt omnia : ad fidem optimarum editionum diligenter expressa : voluminibus XX, by Cicero. (Glasguae : In aedibus Academicis excu...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="300">Possibly: M. Tullii Ciceronis opera quae supersunt omnia : ad fidem optimarum editionum diligenter expressa : voluminibus XX, by Cicero. (Glasguae : In aedibus Academicis excudebant Rob. et And. Foulis, Academiae Typographi, M.DCC.XLIX. [1748-1749]) http://library.st-andrews.ac.uk/record=b1887523~S1</text>
+      <sha1>12b9107dc8owxke6qnmz5ptrxhqi3g7</sha1>
+    </revision>
+  </page>
+</mediawiki>

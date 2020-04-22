@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Johnsons Lives</title>
+    <ns>0</ns>
+    <id>5504</id>
+    <revision>
+      <id>8172</id>
+      <parentid>8171</parentid>
+      <timestamp>2018-02-09T12:23:56Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="232">Possibly: The lives of the poets of Great Britain and Ireland : and a criticism of their works. By Samuel Johnson. 8v. (Dublin : Printed for J. Moore, 1793-1802). (Lives of the English poets).  http://www.worldcat.org/oclc/910203026</text>
+      <sha1>h4x6jkxbx56ad989kc7bpksz122sy7e</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Wetsteini Greek Test</title>
+    <ns>0</ns>
+    <id>5531</id>
+    <revision>
+      <id>8219</id>
+      <timestamp>2018-02-09T16:56:55Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: ̔Η Καινη Διαθηκη. Novum Testamentum Graecum editionis receptae, cum lectionibus variantibus codicum MSS., editionum aliarum, versionum, et patrum, necn...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="452">Possibly: ̔Η Καινη Διαθηκη. Novum Testamentum Graecum editionis receptae, cum lectionibus variantibus codicum MSS., editionum aliarum, versionum, et patrum, necnon commentario pleniore ex scriptoribus veteribus Hebraeis, Graecis et Latinis, historiam et vim verborum illustrante, opera et studio Joannis Jacobi Wetstenii. (Johann Jacob Wetstein; Greek New Testament). 2v. (Amstelaedami, 1751, 1752). http://www.worldcat.org/oclc/557722644</text>
+      <sha1>tcp88zfxeqz1vwxjiob0rcu8ftz6gyn</sha1>
+    </revision>
+  </page>
+</mediawiki>

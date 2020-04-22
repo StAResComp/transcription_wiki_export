@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Thomsons Work</title>
+    <ns>0</ns>
+    <id>2924</id>
+    <revision>
+      <id>4510</id>
+      <timestamp>2017-11-07T11:51:58Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: The works of James Thomson : with his last corrections and improvements : to which is prefixed A new account of his life; with A criticism on his writings : in four...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="323">Possibly: The works of James Thomson : with his last corrections and improvements : to which is prefixed A new account of his life; with A criticism on his writings : in four volumes. (Edinburgh : Printed for R. Clark, bookseller in the Parliament-House, MDCCLXXII [1772]) http://library.st-andrews.ac.uk/record=b1875472~S1</text>
+      <sha1>mdkwbwjw2bjz5g9p9331oy2h40nnn3q</sha1>
+    </revision>
+  </page>
+</mediawiki>

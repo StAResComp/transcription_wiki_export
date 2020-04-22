@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Stephani Thes</title>
+    <ns>0</ns>
+    <id>4989</id>
+    <revision>
+      <id>7470</id>
+      <parentid>7469</parentid>
+      <timestamp>2018-01-17T19:03:24Z</timestamp>
+      <contributor>
+        <username>Edb7@st-andrews.ac.uk</username>
+        <id>40</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="243">Probably: Thesauros tēs hellēnikēs glōssēs, Thesaurus Graecae linguae, ab Henrico Stephano constructus. [By Henri Estienne, 1531-1598]. 5 v. ([Genevae] : excudebat Henr. Stephanus, 1572). http://library.st-andrews.ac.uk/record=b1458085~S1</text>
+      <sha1>n3gg796ydo1ss6yon6ckwptnr529bbf</sha1>
+    </revision>
+  </page>
+</mediawiki>

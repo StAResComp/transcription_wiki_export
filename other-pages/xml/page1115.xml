@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Catal. Bodlei. Bibl.</title>
+    <ns>0</ns>
+    <id>6462</id>
+    <revision>
+      <id>9738</id>
+      <timestamp>2018-05-02T10:46:06Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: Catalogus impressorum librorum bibliothecæ Bodleianæ in academia Oxoniensi.  By Thomas Hyde, Thomas Hearne.  (Oxonii : E theatro Sheldoniano, MDCCXXXVIII [1738])....&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="212">Possibly: Catalogus impressorum librorum bibliothecæ Bodleianæ in academia Oxoniensi.  By Thomas Hyde, Thomas Hearne.  (Oxonii : E theatro Sheldoniano, MDCCXXXVIII [1738]). http://www.worldcat.org/oclc/43121886</text>
+      <sha1>nekg6zgufuk7wph8w96pv00hdbuz6sa</sha1>
+    </revision>
+  </page>
+</mediawiki>

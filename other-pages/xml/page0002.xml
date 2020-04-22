@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>1-12</title>
+    <ns>0</ns>
+    <id>5890</id>
+    <revision>
+      <id>8995</id>
+      <parentid>8994</parentid>
+      <timestamp>2018-04-05T11:31:38Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="127">Click here to reach this page:  https://arts.st-andrews.ac.uk/transcribe/index.php/Page:UYLY206_4_Receipt_Book_1791-1800.djvu/5</text>
+      <sha1>i5md15273xnv2g6h0da38m8cdkq6lix</sha1>
+    </revision>
+  </page>
+</mediawiki>

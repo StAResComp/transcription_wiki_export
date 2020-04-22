@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Maitlands Adventures</title>
+    <ns>0</ns>
+    <id>6072</id>
+    <revision>
+      <id>9292</id>
+      <timestamp>2018-04-24T11:02:08Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: The adventures of George Maitland, Esq In three volumes. ... (London : Printed for J. Murray, 1786).  http://www.worldcat.org/oclc/938424419&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="150">Possibly: The adventures of George Maitland, Esq In three volumes. ... (London : Printed for J. Murray, 1786).  http://www.worldcat.org/oclc/938424419</text>
+      <sha1>7nm4b4ko2owt3wuvwrj66zlue2rqegy</sha1>
+    </revision>
+  </page>
+</mediawiki>

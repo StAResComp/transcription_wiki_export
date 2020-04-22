@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Peregrine Pickle</title>
+    <ns>0</ns>
+    <id>567</id>
+    <revision>
+      <id>9126</id>
+      <parentid>1218</parentid>
+      <timestamp>2018-04-17T13:16:08Z</timestamp>
+      <contributor>
+        <username>Ea22@st-andrews.ac.uk</username>
+        <id>39</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="246">Possibly: The adventures of Peregrine Pickle. In which are included, Memoirs of a lady of quality. By the author of Roderick Random. In three volumes. By T Smollett. (Dublin : Printed for Robert Main, 1751.) http://www.worldcat.org/oclc/316739470</text>
+      <sha1>7udio98lpfud9psnixppan17unwsw0f</sha1>
+    </revision>
+  </page>
+</mediawiki>

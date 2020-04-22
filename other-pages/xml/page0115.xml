@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Addisons works</title>
+    <ns>0</ns>
+    <id>34</id>
+    <revision>
+      <id>78</id>
+      <timestamp>2016-06-03T12:41:50Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: ''The works of the Right Honourable Joseph Addison, Esq'' In four volumes.  (London: Printed for Jacob Tonson, 1721). http://www.worldcat.org/oclc/83390892&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="165">Possibly: ''The works of the Right Honourable Joseph Addison, Esq'' In four volumes.  (London: Printed for Jacob Tonson, 1721). http://www.worldcat.org/oclc/83390892</text>
+      <sha1>1mncevb20xml7k1wqbt1bn1tos6y0ar</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Pearces Longinus</title>
+    <ns>0</ns>
+    <id>6588</id>
+    <revision>
+      <id>9878</id>
+      <timestamp>2018-05-08T10:53:42Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: De sublimitate Commentarius..., by Longinus. Translated by Zachary Pearce. (London, J. &amp; R. Tonson, &amp;c., 1743). http://www.worldcat.org/oclc/82860190.&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="160">Possibly: De sublimitate Commentarius..., by Longinus. Translated by Zachary Pearce. (London, J. &amp; R. Tonson, &amp;c., 1743). http://www.worldcat.org/oclc/82860190.</text>
+      <sha1>p27gjohri9r9snf904189jsy7751j07</sha1>
+    </revision>
+  </page>
+</mediawiki>

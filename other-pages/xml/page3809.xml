@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Johnsons Letters</title>
+    <ns>0</ns>
+    <id>6021</id>
+    <revision>
+      <id>9234</id>
+      <timestamp>2018-04-20T08:27:09Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: Letters to and from the late Samuel Johnson, to which are added some poems never before printed. Published from the original MSS. in her possession..., by Hester Lyn...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="255">Possibly: Letters to and from the late Samuel Johnson, to which are added some poems never before printed. Published from the original MSS. in her possession..., by Hester Lynch Piozzi.  (Dublin R. Moncrieffe 1788).  http://www.worldcat.org/oclc/978083496</text>
+      <sha1>sxkhk1hdl74y38rznhhnew468q15wlg</sha1>
+    </revision>
+  </page>
+</mediawiki>

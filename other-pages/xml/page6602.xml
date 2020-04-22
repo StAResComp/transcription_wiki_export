@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Sternes Works</title>
+    <ns>0</ns>
+    <id>4774</id>
+    <revision>
+      <id>7161</id>
+      <parentid>7160</parentid>
+      <timestamp>2018-01-11T09:37:51Z</timestamp>
+      <contributor>
+        <username>Edb7@st-andrews.ac.uk</username>
+        <id>40</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="247">Possibly: The works of Laurence Sterne, complete in eight volumes... with an account of the life and writings of the author. (By Laurence Sterne). 8v. (London : Printed for the proprietors, 1790). http://library.st-andrews.ac.uk/record=b1301970~S1</text>
+      <sha1>b3n1bf2nkjrwcwprt0bpxqqub4e019h</sha1>
+    </revision>
+  </page>
+</mediawiki>

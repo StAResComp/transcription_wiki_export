@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Catalogue of Eng. Authors</title>
+    <ns>0</ns>
+    <id>8360</id>
+    <revision>
+      <id>12034</id>
+      <timestamp>2018-06-06T15:40:05Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: A catalogue of the royal and noble authors of England : with lists of their works. In two volumes. By Horace Walpole. (Dublin : printed for George Faulkner in Essex-...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="432">Possibly: A catalogue of the royal and noble authors of England : with lists of their works. In two volumes. By Horace Walpole. (Dublin : printed for George Faulkner in Essex-Street, and Hulton Bradley in Dame-Street, MDCCLIX. [1759]). http://www.worldcat.org/oclc/741669267. Digital ed. of Vol 1 (1758 ed.) at: https://archive.org/details/catalogueofroyal01walprich; Vol 2 at: https://archive.org/details/catalogueofroyal02walprich</text>
+      <sha1>s28nmxlzduwgi9hi94eu32etygwe7r2</sha1>
+    </revision>
+  </page>
+</mediawiki>

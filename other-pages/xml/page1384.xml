@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Collection of Voyages</title>
+    <ns>0</ns>
+    <id>1025</id>
+    <revision>
+      <id>1896</id>
+      <timestamp>2017-05-19T15:05:10Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: Navigantium atque itinerantium bibliotheca. Or, a complete collection of voyages and travels. ... By John Harris ... Now carefully revised, with large additions ......&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="331">Possibly: Navigantium atque itinerantium bibliotheca. Or, a complete collection of voyages and travels. ... By John Harris ... Now carefully revised, with large additions ... (London : Printed for T. Osborne, H. Whitridge, C. Bathurst, H. Woodfall, A. Millar [and 12 others in London], 1764). http://www.worldcat.org/oclc/228756182</text>
+      <sha1>8nfp102agx2qsij28oqk0z1gstgohs1</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Lewis Materia Medica</title>
+    <ns>0</ns>
+    <id>6001</id>
+    <revision>
+      <id>9212</id>
+      <timestamp>2018-04-19T14:14:40Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: The new dispensatory: containing, I. The elements of pharmacy. II. The materia medica, or an account of the substances employed in medicine...by Lewis William. (Lond...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="290">Possibly: The new dispensatory: containing, I. The elements of pharmacy. II. The materia medica, or an account of the substances employed in medicine...by Lewis William. (London, : Printed for C. Nourse, in the Strand., MDCCLXXXI. [1781]). http://library.st-andrews.ac.uk/record=b2449072~S5</text>
+      <sha1>9h8qh8uipfk9koa6gl4vqk5g1ja73rl</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Thuani Historia</title>
+    <ns>0</ns>
+    <id>382</id>
+    <revision>
+      <id>915</id>
+      <parentid>827</parentid>
+      <timestamp>2017-03-29T12:42:48Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="174">Probably: Jac. Augusti Thuani Historiarum sui temporis tomus primus[-septimus].  By Jacques-Auguste de Thou. (Londini, S. Buckley, 1733). http://www.worldcat.org/oclc/7502417</text>
+      <sha1>6guw83u5ave6xjeynjk8nlt75alwio7</sha1>
+    </revision>
+  </page>
+</mediawiki>

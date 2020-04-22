@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Paynes Trigonometry</title>
+    <ns>0</ns>
+    <id>968</id>
+    <revision>
+      <id>1831</id>
+      <timestamp>2017-05-19T08:24:39Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: Elements of trigonometry, by William Payne.  (London, 1772).  http://www.worldcat.org/oclc/614554942&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="110">Possibly: Elements of trigonometry, by William Payne.  (London, 1772).  http://www.worldcat.org/oclc/614554942</text>
+      <sha1>pl2x510ilgar99lie840w3yk8euk3ka</sha1>
+    </revision>
+  </page>
+</mediawiki>

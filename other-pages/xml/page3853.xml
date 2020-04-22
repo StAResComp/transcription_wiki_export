@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Josephus</title>
+    <ns>0</ns>
+    <id>7150</id>
+    <revision>
+      <id>10503</id>
+      <timestamp>2018-05-16T11:16:12Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: The genuine works of Flavius Josephus : translated from the original Greek, according to Havercamp's accurate edition..., by William Whiston. 6v. (Edinburgh : Printe...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="286">Possibly: The genuine works of Flavius Josephus : translated from the original Greek, according to Havercamp's accurate edition..., by William Whiston. 6v. (Edinburgh : Printed for William Coke bookseller, Leith, M,DCC,LXXVII. [1777]). http://library.st-andrews.ac.uk/record=b1875811~S1</text>
+      <sha1>nya80bct9hnuag4t0i8l9rvqum4g9to</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Popes Dunciad</title>
+    <ns>0</ns>
+    <id>31</id>
+    <revision>
+      <id>74</id>
+      <parentid>73</parentid>
+      <timestamp>2016-06-03T11:29:34Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="282">Possibly: ''The Dunciad: with the prolegomena of Scriblerus in three books, from the new quarto edition, done at London'', by Alexander Pope.  ([Dublin]: London: Printed, and Dublin re-printed by and for James Hoey, and George Faulkner, 1729). http://www.worldcat.org/oclc/645786667</text>
+      <sha1>lmhvecptbwok2ezqi5ipyugujq3j78l</sha1>
+    </revision>
+  </page>
+</mediawiki>

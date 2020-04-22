@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>The Aviary</title>
+    <ns>0</ns>
+    <id>3641</id>
+    <revision>
+      <id>5629</id>
+      <timestamp>2017-12-01T15:21:11Z</timestamp>
+      <contributor>
+        <username>Ea22@st-andrews.ac.uk</username>
+        <id>39</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: The aviary, or, Magazine of British melody : consisting of a collection of one thousand three hundred and forty four songs : with titles of the principal tunes prefi...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="340">Possibly: The aviary, or, Magazine of British melody : consisting of a collection of one thousand three hundred and forty four songs : with titles of the principal tunes prefixed. (London : Printed and sold by J. Mechell, at his Printing-Office, the King's-Arms in Fleet-Street [and 7 others], [1744?]) http://www.worldcat.org/oclc/77177198</text>
+      <sha1>6s6u8xltgfpnrp9a2hl8m3403a4i3dz</sha1>
+    </revision>
+  </page>
+</mediawiki>

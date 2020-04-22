@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Scriptoris de re Rustica</title>
+    <ns>0</ns>
+    <id>5495</id>
+    <revision>
+      <id>8157</id>
+      <timestamp>2018-02-08T16:58:19Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: [Scriptores rei rusticae:] Marcus Porcius Cato: Enarrationes. De re rustica. Add: Marcus Terentius Varro: De re rustica; L. Junius Moderatus Columella: De re rustica...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="393">Possibly: [Scriptores rei rusticae:] Marcus Porcius Cato: Enarrationes. De re rustica. Add: Marcus Terentius Varro: De re rustica; L. Junius Moderatus Columella: De re rustica; Rutilius Taurus Palladius: De re rustica. Ed: Franciscus Colucia and Georgius Merula. (Reggio Emilia: Bartholomaeus de Bruschis, Bottonus, 1482). Digital edition at: https://archive.org/details/scriptoresreirus00unse</text>
+      <sha1>ly43qei0zttozdtb9owrpdjrbcy7heo</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Eulers Elements of Algebra</title>
+    <ns>0</ns>
+    <id>6390</id>
+    <revision>
+      <id>9654</id>
+      <timestamp>2018-05-01T09:27:45Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly:  	Elements of Algebra, by Leonard Euler. Translated from the French, with the critical and historical notes of M. Bernoulli. To which are added the additions of M. d...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="498">Possibly:  	Elements of Algebra, by Leonard Euler. Translated from the French, with the critical and historical notes of M. Bernoulli. To which are added the additions of M. de la Grange; some original notes by the translator; memoirs of the life of Euler, with an estimate of his character; and a praxis to the whole work, consisting of above two hundred examples. In two volumes. (London : Printed for J. Johnson, St. Paul's Church-Yard, 1797).  http://library.st-andrews.ac.uk/record=b2498514~S1</text>
+      <sha1>0lilacxq1zw7eapwqgg170co5xhqack</sha1>
+    </revision>
+  </page>
+</mediawiki>

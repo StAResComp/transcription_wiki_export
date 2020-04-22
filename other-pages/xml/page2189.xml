@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Eskines Discourses</title>
+    <ns>0</ns>
+    <id>3282</id>
+    <revision>
+      <id>4979</id>
+      <parentid>4975</parentid>
+      <timestamp>2017-11-17T15:30:10Z</timestamp>
+      <contributor>
+        <username>Edb7@st-andrews.ac.uk</username>
+        <id>40</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="314">Possibly:  Discourses preached on several occasions. By John Erskine, D.D. One of the ministers of the Old Grayfriars Church, Edinburgh. (Edinburgh: Printed for William Creech and Archibald Constable, and C. Dilly, T. Cadell, W. Davies, and T. Kay, London, 1798). http://library.st-andrews.ac.uk/record=b2421935~S1</text>
+      <sha1>a4dp6qsp86bzc2nqqm5zqqw04q8a23q</sha1>
+    </revision>
+  </page>
+</mediawiki>

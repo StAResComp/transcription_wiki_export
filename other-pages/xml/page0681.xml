@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Blackwells Herbal</title>
+    <ns>0</ns>
+    <id>755</id>
+    <revision>
+      <id>1537</id>
+      <timestamp>2017-04-25T09:14:40Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: A curious herbal, by Elizabeth Blackwell.  (London : Printed for Samuel Harding, 1737). https://archive.org/details/mobot31753002620836&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="145">Possibly: A curious herbal, by Elizabeth Blackwell.  (London : Printed for Samuel Harding, 1737). https://archive.org/details/mobot31753002620836</text>
+      <sha1>e86h4roywjgp7xpo2bwbwaq055bgth2</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>AEsopi Fabulae</title>
+    <ns>0</ns>
+    <id>5283</id>
+    <revision>
+      <id>7862</id>
+      <parentid>7861</parentid>
+      <timestamp>2018-01-24T09:44:12Z</timestamp>
+      <contributor>
+        <username>Edb7@st-andrews.ac.uk</username>
+        <id>40</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="360">Possibly: Μυθοι Αισωπου. Aesopi fabulae, Graeco-Latinae. Cum novis notis, necnon versione emendatâ. Editio, prioribus antehac editis correctior; Et ad usum juventutis Regiae Scholae Etonensis accommodata. (By Aesop). (Etone : Excudit J. Pote, Bibliopola et Typographus, M DCC LXXXIII. [1783]). http://library.st-andrews.ac.uk/record=b2453320~S1 or</text>
+      <sha1>fwyokdw4ilh3357g3ydaeid3lx795cg</sha1>
+    </revision>
+  </page>
+</mediawiki>

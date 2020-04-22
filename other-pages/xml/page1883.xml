@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Dodsons Mathematical Repository</title>
+    <ns>0</ns>
+    <id>5036</id>
+    <revision>
+      <id>7543</id>
+      <timestamp>2018-01-18T15:09:07Z</timestamp>
+      <contributor>
+        <username>Ea22@st-andrews.ac.uk</username>
+        <id>39</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: The mathematical repository. Containing Analytical Solutions of five hundred Questions, mostly selected from Scarce and Valuable authors. Designed to conduct Beginne...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="443">Possibly: The mathematical repository. Containing Analytical Solutions of five hundred Questions, mostly selected from Scarce and Valuable authors. Designed to conduct Beginners to the more difficult Properties of Numbers. By James Dodson, Accomptant, and Teacher of the Mathematics. (London : Printed for J. Nourse, at the Lamb, opposite Katherine-Street, in the Strand, MDCCXLVIII. [1748]). http://library.st-andrews.ac.uk/record=b2103510~S1</text>
+      <sha1>tnbngpsby58keafp6rpcozl4pdo0ugh</sha1>
+    </revision>
+  </page>
+</mediawiki>

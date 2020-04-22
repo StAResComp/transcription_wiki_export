@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Double Ring-Dial</title>
+    <ns>0</ns>
+    <id>5029</id>
+    <revision>
+      <id>7535</id>
+      <timestamp>2018-01-18T15:03:00Z</timestamp>
+      <contributor>
+        <username>Ea22@st-andrews.ac.uk</username>
+        <id>39</id>
+      </contributor>
+      <comment>Created page with &quot;Possibly: The description and uses of the universal æquinoctial double-ring dial, which serves to find the latitude, hour of the day ... Whereunto is added, a well collected...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="380">Possibly: The description and uses of the universal æquinoctial double-ring dial, which serves to find the latitude, hour of the day ... Whereunto is added, a well collected table of the latitude of the most eminent places in Europe. Also, a new ... table of equation, by Gabriel Stokes. (Dublin : Printed by S. Powell, for W. Smith, 1731.) http://www.worldcat.org/oclc/931203028</text>
+      <sha1>f78v9mocyakcrpz3dh0doqocpx7y5ss</sha1>
+    </revision>
+  </page>
+</mediawiki>

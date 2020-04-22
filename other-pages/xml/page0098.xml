@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Adams Nat. Phil</title>
+    <ns>0</ns>
+    <id>4967</id>
+    <revision>
+      <id>9405</id>
+      <parentid>7439</parentid>
+      <timestamp>2018-04-26T09:19:49Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="668">Possibly: Lectures on natural and experimental philosophy, considered in it's present state of improvement. Describing, in a familiar and easy manner, the principal phenomena of nature; and shewing, that they all co-operate in displaying the goodness, wisdom, and power of God. By George Adams, Mathematical Instrument Maker to His Majesty, and Optician to His Royal Highness the Prince of Wales. In five volumes. The Fifth Volume consisting of the Plates and Index. 5v. (London : Printed by R. Hindmarsh, printer to His Royal Highness the Prince of Wales, Old-Bailey. Sold by the author, No. 60, Fleet-Street, 1794). http://library.st-andrews.ac.uk/record=b2103724~S1</text>
+      <sha1>8wryre76c7vgqdjx8ccei566gcrlxuw</sha1>
+    </revision>
+  </page>
+</mediawiki>

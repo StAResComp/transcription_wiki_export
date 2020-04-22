@@ -1,0 +1,20 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en-gb">
+  <page>
+    <title>Gerard on Taste</title>
+    <ns>0</ns>
+    <id>1204</id>
+    <revision>
+      <id>2090</id>
+      <parentid>2089</parentid>
+      <timestamp>2017-05-30T11:02:05Z</timestamp>
+      <contributor>
+        <username>Ac101@st-andrews.ac.uk</username>
+        <id>3</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="265">Probably: An Essay on Taste ... With three dissertations on the same subject. By Mr. de Voltaire. Mr. d'Alembert, F.R.S. Mr. de Montesquieu. by Alexander GERARD, D.D. (A. Millar: London; A. Kincaid &amp; J. Bell: Edinburgh, 1759). http://www.worldcat.org/oclc/560000156</text>
+      <sha1>eg8e7hobct8bep51plmguoilqdleppt</sha1>
+    </revision>
+  </page>
+</mediawiki>
