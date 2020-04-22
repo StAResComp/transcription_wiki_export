@@ -22,4 +22,17 @@
 2. Generated PDFs using [DjView4](http://djvu.sourceforge.net/djview4.html)
 3. `convert -density 600 pdf/UYLY206_4_Receipt_Book_1791-1800.pdf jpg/UYLY206_4_Receipt_Book_1791-1800_%d.jpg`
 
+# Other pages
 
+Other pages referenced in the pages of the text were not included in the
+initial export as they did not belong to any category. A list of these was
+generated from the exported pages above using:
+
+```bash
+grep -roP '\[\[.*?\]\]' . | grep -oP '\[\[.*?\]\]' | sort | uniq | sed -r 's/\[\[(.*)\]\]/\1/g' | sed 's/ /_/g'
+```
+
+It was then possible to export those pages and run them through a similar
+process to that for the original pages, though they were not converted to CSV
+as the contents were not typically tabular. The results are in the
+`other-pages` directory.
