@@ -12,4 +12,4 @@ Process outline:
 
 For our immediate purpose, only the Library Borrowing Registers were of interest; other items have been filtered out.
 
-See [process.txt](process.txt) for some more details.
+See [process.md](process.md) for some more details.
